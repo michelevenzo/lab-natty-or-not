@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Tradução de vídeos técnicos com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Realizar a tradução de vídeo técnico do Curso de Formação de Avaliador de Penhor da Universidade Caixa, que somente contava com a versão original em inglês, sem legendas e sem tradução.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Youtube, y2meta.is, Veed.io, ChatGPT, Google Tradutor
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O primeiro passo foi baixar o vídeo original do Youtube e converter em MP4 utilizando o site gratuito y2meta.is
+Depois foi utilizada a IA generativa da plataforma Veed.io
+A versão gratuita permite traduzir e dublar o vídeo com recurso speech to speech, porém o áudio é muito lento e fica desencontrado com as imagens. Foi preciso cortar alguns trechos, aumentar a velocidade de reprodução do áudio para 1,2x e ajustar. A música original do vídeo é eliminada, mas a plataforma permite adicionar outra. Não encontrei opção para ajustar a tradução, que apresenta pequenas falhas. No geral, ficou ok. 
+A versão paga permite gerar legendas automáticas com recurso speech to text, porém para tradução automática somente na versão Pro. Como contratei apenas um plano mais simples, as legendas foram geradas em inglês. Utilizei o ChatGPT e Google Tradutor para traduzir os textos e a plataforma permitiu editar todas as legendas.
+Para exportar o vídeo, a versão gratuita inclui marca d'água, enquanto a versão paga permite a exportação de uma versão mais profissional. Não permite retirar a marca d'água de um vídeo criado na versão gratuita, mesmo que contrate um plano pago. Foi necessário refazer o vídeo para conseguir exportar sem a marca d'água.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi a produção de dois vídeos: uma versão legendada e outra dublada, permitindo ao instrutor escolher qual prefere exibir para os participantes do curso.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Como uma primeira experiência, foi um pouco difícil e trabalhoso por não conhecer direito as tecnologias. Tenho certeza que se fizer o mesmo processo com outro vídeo será muito mais fácil, pois agora já sei como as ferramentas funcionam. IA economiza muito tempo e trabalho, basta saber usar. A dublagem não ficou perfeita, mas atende ao propósito.
